@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/me-lier/Medical-Imaging.git
+   git clone https://github.com/Nallavishnuvardhanreddy/Medical-Imaging.git
    cd medical-imaging-analysis
 ## Datasets
       Pneumonia Detection: Chest X-ray dataset
